@@ -17,6 +17,6 @@ favicon_ico: "/assets/images/aws_sap_icon.ico"
 
  
 # Makes Aux links open in a new tab. Default is false
-aux_links_new_tab: true
+aux_links_new_tab: false
 
 
